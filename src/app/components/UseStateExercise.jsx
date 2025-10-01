@@ -1,7 +1,7 @@
 "use client";
 
 // Importer CSS filen
-import "./useState-exercise.css";
+import "../component-style/useState-exercise.css";
 
 // TODO for studerende: Importer useState fra React
 // import { useState } from 'react'
@@ -10,7 +10,7 @@ export default function UseStateExercise() {
   // TODO for studerende: Opret en state variabel til at gemme teksten
   // Hint: const [tekst, setTekst] = useState('Velkommen!')
 
-  // Midlertidig værdi - skal erstattes med state
+  // Velkommen! Er den midlertidige værdi, der skal erstattes med state!
   const tekst = "Velkommen!";
 
   return (

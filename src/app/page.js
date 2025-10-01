@@ -1,9 +1,5 @@
-import UseStateExercise from "./UseStateExercise";
-import LikeCounterExercise from "./LikeCounterExercise";
-import ThemeToggleStudentExercise from "./ThemeToggleStudentExercise";
+import UseStateExercise from "./components/UseStateExercise";
 import "./globals.css";
 export default function Home() {
   return <UseStateExercise />;
-  return <LikeCounterExercise />;
-  return <ThemeToggleStudentExercise />;
 }
