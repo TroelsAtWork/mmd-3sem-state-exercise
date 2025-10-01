@@ -1,6 +1,6 @@
 "use client";
 // Importer CSS filen
-import "./like-counter-exercise.css";
+import "../component-style/like-counter-exercise.css";
 // TODO for studerende: Importer useState fra React
 
 export default function LikeCounterExercise() {
