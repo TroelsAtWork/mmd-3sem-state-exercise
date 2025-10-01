@@ -15,7 +15,7 @@ export default function LikeCounterExercise() {
         <div className="post-header">
           <h1 className="exercise-title">Like Counter Øvelse</h1>
           <p className="exercise-description">
-            Få din like-knap til at tælle likes
+            Få opslagets like-knap til at tælle likes
           </p>
         </div>
 
