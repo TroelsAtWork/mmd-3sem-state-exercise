@@ -83,6 +83,7 @@ body {
 }
 
 .text-input {
+  color: #374151;
   width: 100%;
   padding: 0.75rem;
   border: 1px solid #d1d5db;

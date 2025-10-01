@@ -19,7 +19,7 @@ export default function UseStateExercise() {
         <div className="card-header">
           <h1 className="card-title">useState Øvelse</h1>
           <p className="card-description">
-            Få input-feltet til at opdatere overskriften nedenfor
+            Få input-feltet til at opdatere overskriften i real-tid
           </p>
         </div>
 
