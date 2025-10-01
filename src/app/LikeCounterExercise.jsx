@@ -15,7 +15,7 @@ export default function LikeCounterExercise() {
         <div className="post-header">
           <h1 className="exercise-title">Like Counter Øvelse</h1>
           <p className="exercise-description">
-            Få like-knappen til at tælle op og ned
+            Få din like-knap til at tælle likes
           </p>
         </div>
 
@@ -58,10 +58,10 @@ export default function LikeCounterExercise() {
           <ul className="help-list">
             <li>Importer useState fra React</li>
             <li>Opret likes state (starter på 0)</li>
-            <li>Opret isLiked state (starter på false)</li>
+            <li>Opret ex. isLiked state (starter på false)</li>
             <li>Implementer handleLike funktionen</li>
             <li>Toggle isLiked og opdater likes tælleren</li>
-            <li>Se knappen skifte farve og tælleren opdatere!</li>
+            <li>Se like-knappen skifte farve og tælleren opdatere!</li>
           </ul>
         </div>
       </div>
