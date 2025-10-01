@@ -1,7 +1,7 @@
 "use client";
 
 // Importer CSS filen
-import "./theme-toggle-student-exercise.css";
+import "../component-style/theme-toggle-student-exercise.css";
 
 // TODO for studerende: Importer useState fra React
 
